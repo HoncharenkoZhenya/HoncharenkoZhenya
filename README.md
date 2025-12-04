@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yevhenii 👋</h1>
+<p align="center">
+  Head of Frontend at Howly by SKELAR · React / Next.js
+</p>
 
-<!--
-**HoncharenkoZhenya/HoncharenkoZhenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend engineer focused on **React**, **Next.js**, and **TypeScript**  
+🚀 Love setting up **CI/CD**, testing, and safe release processes for frontend teams  
+📊 Experienced with **experiments / A/B tests**, analytics and data-informed UX decisions  
+🤝 Enjoy mentoring developers and building strong, collaborative teams  
+
+---
+
+## Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-honcharenko/)
+
+---
+
+# Tech Stack:
+
+<!-- Core FE -->
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,sentry,html,sass,materialui,webstorm)
+
+<!-- Tools & Testing -->
+![More Tech](https://skillicons.dev/icons?i=nodejs,git,github,gitlab,webpack,vite,pnpm,vercel,docker,kubernetes)
+
+---
+
+# GitHub Stats:
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HoncharenkoZhenya&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</p>
+
+---
+
+## 📫 How to reach me
+
+- Email: `honcharenko.zhenya@gmail.com`
+- LinkedIn: [linkedin.com/in/yevhenii-honcharenko](https://www.linkedin.com/in/yevhenii-honcharenko/)
+
+
+---
+
+Thanks for stopping by 👀
