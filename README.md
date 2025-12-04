@@ -33,7 +33,7 @@
 # GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HoncharenkoZhenya&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="[https://streak-stats.demolab.com?user=HoncharenkoZhenya&theme=transparent&hide_border=true](https://streak-stats.demolab.com/demo/?user=HoncharenkoZhenya&theme=dracula&hide_border=true&border_radius=16&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=Sun%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)" alt="GitHub streak" />
 </p>
 
 ---
